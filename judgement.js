@@ -48,4 +48,4 @@ function get_achivement(x, y, z){
     return `あなたの成績は${achievement}です。${pass_or_failure}です！`;
     };
 
-    console.log(judgement(10,10,10);
+    console.log(judgement(10,10,10));
